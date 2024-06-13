@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmckinnell
-- 👀 I’m interested in Powershell and SQL coding mostly. 
+- 👀 I’m interested in C#, Powershell and SQL coding mostly. 
 - 🌱 I’m currently learning Powershell for server admin and managing multiple SQL servers. 
 - 💞️ I’m not much of a coder yet so looking at existing projects and learning as I go.
 
